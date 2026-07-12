@@ -33,4 +33,4 @@ KeyWinMaximize="Alt+Shift+F"
 DesktopBackgroundImage = "/my/wallpaper/directory" # Make sure to put the file path in complete form, like "/home/user/Pictures/bg.jpg", and that IceWMbg is running.
 
 # Obs: This config is better and made to be used alongside IcePick theme, made by Vimux, an old theme for IceWM.
-# I'd recommend using the Arc-Darker gtk theme made by Horst3180, it combines perfectly with IcePick.
+# I'd recommend using the Arc-Darker GTK theme made by Horst3180, it combines perfectly with IcePick.
